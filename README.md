@@ -26,7 +26,7 @@ Change the .env.example to .env and change the API_KEY to your own. The website 
 
 <h4>Support me</h4>
 
-- Thanks for looking at this repository, if you like to press the ★ button!
+- Thanks for looking at this repository, if you like to press the ⭐ button!
 - Made by [imzoloft](https://gitlab.com/imzoloft).
 
 <p align="center">
