@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Calm_Clouds",
+    "slug": "Calm_Clouds",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "description": "A minimalist open source weather app",
+    "githubUrl": "https://github.com/edwardelton/Calm-Clouds",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.ico"
+    }
+  }
+}
