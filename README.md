@@ -5,8 +5,8 @@
 ---
 
 <div>
-  <img src="https://cdn.discordapp.com/attachments/1076181871802712195/1076181904774152344/Simulator_Screen_Shot_-_iPhone_14_-_2023-02-17_at_09.59.10_iphone13midnight_portrait.png" width="150"/>
-  <img src="https://cdn.discordapp.com/attachments/1076181871802712195/1076181905147441203/Simulator_Screen_Shot_-_iPhone_14_-_2023-02-17_at_09.56.41_iphone13midnight_portrait.png" width="150"/>
+  <img src="https://media.discordapp.net/attachments/1076181871802712195/1076181904774152344/Simulator_Screen_Shot_-_iPhone_14_-_2023-02-17_at_09.59.10_iphone13midnight_portrait.png?ex=662bd980&is=66196480&hm=a530a5e8157ea68552cd4a3f055caf54c88bae3475fd3b50c3311ea027df2448&=&format=webp&quality=lossless&width=644&height=1202" width="150"/>
+  <img src="https://media.discordapp.net/attachments/1076181871802712195/1076181905147441203/Simulator_Screen_Shot_-_iPhone_14_-_2023-02-17_at_09.56.41_iphone13midnight_portrait.png?ex=662bd980&is=66196480&hm=3ba1d123bbec90d1c8dd6049c4df88c04659746e6dcbfffb71c0ca8cfce8fd60&=&format=webp&quality=lossless&width=644&height=1202" width="150"/>
 </div>
 
 ---
